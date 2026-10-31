@@ -1,2 +1,1 @@
-# Portafolio UDH - Cristina
-Nombre: Cristina
+# Portafolio Academico de Cristina

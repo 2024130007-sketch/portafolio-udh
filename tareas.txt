@@ -1,3 +1,5 @@
 Estudiar Git y GitHub
 Practicar comandos de Git
 Desarrollar proyectos universitarios
+Aprender a trabajar con ramas
+Practicar Pull Request y Merge Conflict
